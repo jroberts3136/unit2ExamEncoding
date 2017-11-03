@@ -7,7 +7,7 @@ public class Code
 {
     private String myCode;
     private String origCode;
-    private String x;
+    private String x = "";
 
     public Code(String code)
     {
